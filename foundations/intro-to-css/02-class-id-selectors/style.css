@@ -2,3 +2,8 @@ p {
     background-color: rgb(255, 168, 181);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+div.second {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
