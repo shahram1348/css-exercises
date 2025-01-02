@@ -3,12 +3,12 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.second {
+#second {
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
-.forth {
+#forth {
     background-color: #99f478;
     font-weight: bold;
 }
