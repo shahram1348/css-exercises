@@ -3,7 +3,16 @@ p {
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-div.second {
+.second {
     color: rgb(0, 0, 255);
     font-size: 36px;
+}
+.third {
+    font-size: 24px;
+}
+
+.forth {
+    background-color: #99f478;
+    font-size: 24px;
+    font-weight: bold;
 }
