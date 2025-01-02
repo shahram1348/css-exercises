@@ -1,4 +1,4 @@
-p {
+.odd {
     background-color: rgb(255, 168, 181);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
@@ -7,12 +7,12 @@ p {
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
-.third {
-    font-size: 24px;
-}
 
 .forth {
     background-color: #99f478;
-    font-size: 24px;
     font-weight: bold;
+}
+
+.adjust-font-size {
+    font-size: 24px;
 }
